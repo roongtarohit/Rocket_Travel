@@ -72,3 +72,6 @@ Provide implementation for the following features (see examples below):
 2. mvn compile
 3. mvn exec:java -Dexec.mainClass=com.rockettravel.app.App
 
+
+Refer Wiki for further information.
+
